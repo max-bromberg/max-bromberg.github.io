@@ -19,6 +19,9 @@ ninja.data = [{
         },{id: "news-this-website-is-created-hello-world",
           title: 'This website is created! Hello World!',
           description: "",
+          section: "News",},{id: "news-excited-to-serve-as-a-course-assistant-for-ece-411-this-spring-2026-semester",
+          title: 'Excited to serve as a Course Assistant for ECE 411 this Spring 2026...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
