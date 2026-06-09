@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Engineering Undergrad at the University of Illinois Urbana-Champaign
+subtitle: Ph.D. Student in ECE at the University of Illinois Urbana-Champaign
 
 profile:
   align: left
