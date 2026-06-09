@@ -22,6 +22,12 @@ ninja.data = [{
           section: "News",},{id: "news-excited-to-serve-as-a-course-assistant-for-ece-411-this-spring-2026-semester",
           title: 'Excited to serve as a Course Assistant for ECE 411 this Spring 2026...',
           description: "",
+          section: "News",},{id: "news-i-graduated-from-uiuc-with-my-b-s-in-computer-engineering",
+          title: 'I graduated from UIUC with my B.S. in Computer Engineering.',
+          description: "",
+          section: "News",},{id: "news-starting-my-ph-d-at-uiuc-in-the-systems-platform-and-intelligence-lab",
+          title: 'Starting my Ph.D. at UIUC in the Systems Platform and Intelligence Lab!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
