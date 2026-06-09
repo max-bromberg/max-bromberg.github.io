@@ -26,8 +26,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Computer Engineering undergraduate at the University of Illinois Urbana-Champaign, broadly interested in the intersection of Computer Architecture and Distributed Systems.
+I am a Ph.D. student in Electrical & Computer Engineering at the University of Illinois Urbana-Champaign, advised by Professor [Jian Huang](https://jianh.web.engr.illinois.edu) in the [Systems Platform and Intelligence Lab](https://platformxlab.github.io). I am broadly interested in the intersection of systems, computer architecture, and distributed systems. Currently, my research is centered on AI infrastructure, where I focus on full-stack optimization and hardware-software co-design to improve the efficiency and performance of AI inference.
 
-Currently, I am conducting research on high-performance storage systems, specifically designing parallel filesystems optimized for AI workloads. I also serve as a Course Assistant for ECE 220, where I co-manage the Honors section and lead curriculum development. I previously studied abroad at the National University of Singapore (NUS).
-
-I am currently applying to PhD programs for Fall 2026.
+I graduated from UIUC with my B.S. in Computer Engineering in May 2026. Prior to starting my Ph.D., my undergraduate research explored high-performance storage systems, and I also completed a study abroad program at the National University of Singapore (NUS).
